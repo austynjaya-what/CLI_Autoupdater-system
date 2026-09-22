@@ -1,0 +1,2 @@
+This is an autoupdater system that I decided to make. While imperfect and prone to many bugs, I hope you enjoy it.
+It only supports 6 Distros: Ubuntu, Debian, Fedora, Arch, Void and Kubuntu. Support for more distros will be added sooner or later. Thanks!
